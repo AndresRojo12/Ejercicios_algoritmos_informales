@@ -27,7 +27,7 @@ c = 30
  c = c + 4 + b 
  d = d + b + a 
  a = a + 1 
-  b = b + c 
+ b = b + c 
  c = b + c 
  d = b + b 
  
