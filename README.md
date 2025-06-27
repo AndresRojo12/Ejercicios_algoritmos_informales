@@ -166,7 +166,7 @@ Respuesta
 22. Desarrollar un algoritmo que permita escuchar un determinado disco.
 1- Buscar en el directorio de musica, el dico a escuchar(Inicio)
 2- Seleccionar disco
-3- Escuchar disco seleccionado(Fin)
+3- Escuchar disco seleccionado(Fin).
 
 23. Desarrollar un algoritmo que permita abrir una ventana. 
 24. Desarrollar un algoritmo que permita ir a la tienda a comprar algo. 
