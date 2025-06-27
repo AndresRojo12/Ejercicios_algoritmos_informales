@@ -138,10 +138,36 @@ o materia del examen(Inicio)
 9- Sentarse en la silla del comedor
 10- Disponerse a almorzar(Fin)
 
-19. Desarrollar un algoritmo que permita ir de la casa al trabajo. 
-20. Desarrollar un algoritmo que permita colocarse una camisa. 
-21. Desarrollar un algoritmo que permita quitarse la camisa. 
-22. Desarrollar un algoritmo que permita escuchar un determinado disco. 
+19. Desarrollar un algoritmo que permita ir de la casa al trabajo.
+Respuesta
+1- Estar organizado listo para salir de la casa(Inicio)
+2- Abrir la puerta para salir de la casa
+3- Cerrar la puerta de la casa
+4- Dirigirse a una parada de buses o continuar a pie
+5- Esperar bus
+6- Montarse en el bus
+7- Decirle al chofer que lo deje en cierta parada
+8- pararse y pagarle al chofer
+9- bajarse del bus
+10- Dirigirse hasta la entrada del lugar de trabajo
+11- Entrar al trabajo(Fin)
+
+20. Desarrollar un algoritmo que permita colocarse una camisa.
+1- buscar camisa deseada(Inicio)
+2- Colocar camisa
+3- Abotonar botones
+4- Organizar cuello´
+5- Camisa puesta(Fin) 
+
+21. Desarrollar un algoritmo que permita quitarse la camisa.
+1- Desabrochar camisa
+2- Quitar camisa 
+
+22. Desarrollar un algoritmo que permita escuchar un determinado disco.
+1- Buscar en el directorio de musica, el dico a escuchar(Inicio)
+2- Seleccionar disco
+3- Escuchar disco seleccionado(Fin)
+
 23. Desarrollar un algoritmo que permita abrir una ventana. 
 24. Desarrollar un algoritmo que permita ir a la tienda a comprar algo. 
 La Esencia de la Lógica de Programación – Omar Ivan Trejos Buriticá 
